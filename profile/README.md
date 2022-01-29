@@ -1,12 +1,8 @@
-![Photo](https://user-images.githubusercontent.com/52077360/151660887-3b38af7d-4467-4a01-a27b-ddc32a4eac46.png)
+![Photo Contains "You've stumbled across / Reponse"](https://user-images.githubusercontent.com/52077360/151661124-6c6ed0b8-1f3d-439e-aaf6-89416feacc06.png)
 
 <!--
+We inspired from https://github.com/hackclub!
+Designed from @ReXulEc
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+A Light Quarters Company.
+--> 
